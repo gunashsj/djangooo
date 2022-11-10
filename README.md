@@ -1,0 +1,2 @@
+# djangooo
+django proj
